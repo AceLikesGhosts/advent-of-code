@@ -1,0 +1,11 @@
+{
+    "name": "advent-of-code",
+    "description": "No dependencies should ever be added to this project! This is simply for script organization!",
+    "scripts": {
+        "generate": "npx tsx scripts/index.ts"
+    },
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.12",
+        "node-fetch": "^3.3.2"
+    }
+}
